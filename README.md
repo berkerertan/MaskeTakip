@@ -1,2 +1,2 @@
 # MaskeTakip
-Mernis üzerinden TCno kontrolu yapan MikroServis ile çalışır
+Kullanıcının vatandaşlık durumunu Mernis üzerinden kontrol eder ve maske alma durumunu belirtir.
