@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0dzWhD+2diwDH1X5BZJ4hz5d09gDTBYiGhE5iPcBvDB2V2jaeJaZumPFl0kO5Rg59UHeCnslIGBbDPbf+K2dJA==",
+  "success": true,
+  "projectFilePath": "/Users/berker/Desktop/KodlamaIo-Camp/Workaround/Workaround.csproj",
+  "expectedPackageFiles": [
+    "/Users/berker/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

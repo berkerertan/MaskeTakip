@@ -1,0 +1,14 @@
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/bin/Debug/net8.0/Workaround
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/bin/Debug/net8.0/Workaround.deps.json
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/bin/Debug/net8.0/Workaround.runtimeconfig.json
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/bin/Debug/net8.0/Workaround.dll
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/bin/Debug/net8.0/Workaround.pdb
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/obj/Debug/net8.0/Workaround.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/obj/Debug/net8.0/Workaround.AssemblyInfoInputs.cache
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/obj/Debug/net8.0/Workaround.AssemblyInfo.cs
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/obj/Debug/net8.0/Workaround.csproj.CoreCompileInputs.cache
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/obj/Debug/net8.0/Workaround.dll
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/obj/Debug/net8.0/refint/Workaround.dll
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/obj/Debug/net8.0/Workaround.pdb
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/obj/Debug/net8.0/Workaround.genruntimeconfig.cache
+/Users/berker/Desktop/KodlamaIo-Camp/Workaround/obj/Debug/net8.0/ref/Workaround.dll
