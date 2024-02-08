@@ -71,9 +71,13 @@ internal class Program
 
         Person person1 = new();
         person1.FirstName = "Berker";
+        person1.LastName = "Ertan";
+        person1.DateOfBirthYear = 1998;
+        person1.NationalIdentity = 471;
 
 
-        PttManager pttManager = new(new ForeignerManager());
+
+        PttManager pttManager = new(new PersonManager());
         pttManager.GiveMask(person1);
 
 

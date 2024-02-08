@@ -1,34 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/Users/berker/Desktop/KodlamaIo-Camp/Workaround/Workaround.csproj": {}
+    "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Workaround\\Workaround.csproj": {}
   },
   "projects": {
-    "/Users/berker/Desktop/KodlamaIo-Camp/Business/Business.csproj": {
+    "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/berker/Desktop/KodlamaIo-Camp/Business/Business.csproj",
+        "projectUniqueName": "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "/Users/berker/Desktop/KodlamaIo-Camp/Business/Business.csproj",
-        "packagesPath": "/Users/berker/.nuget/packages/",
-        "outputPath": "/Users/berker/Desktop/KodlamaIo-Camp/Business/obj/",
+        "projectPath": "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\berke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\berke\\Source\\Repos\\MaskeTakip\\Business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/berker/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\berke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/berker/Desktop/KodlamaIo-Camp/Entities/Entities.csproj": {
-                "projectPath": "/Users/berker/Desktop/KodlamaIo-Camp/Entities/Entities.csproj"
+              "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj"
               }
             }
           }
@@ -58,6 +63,26 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.2, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.10.*, )"
             }
           },
           "imports": [
@@ -76,27 +101,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/berker/Desktop/KodlamaIo-Camp/Entities/Entities.csproj": {
+    "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/berker/Desktop/KodlamaIo-Camp/Entities/Entities.csproj",
+        "projectUniqueName": "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/berker/Desktop/KodlamaIo-Camp/Entities/Entities.csproj",
-        "packagesPath": "/Users/berker/.nuget/packages/",
-        "outputPath": "/Users/berker/Desktop/KodlamaIo-Camp/Entities/obj/",
+        "projectPath": "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\berke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\berke\\Source\\Repos\\MaskeTakip\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/berker/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\berke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -130,38 +160,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/berker/Desktop/KodlamaIo-Camp/Workaround/Workaround.csproj": {
+    "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Workaround\\Workaround.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/berker/Desktop/KodlamaIo-Camp/Workaround/Workaround.csproj",
+        "projectUniqueName": "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Workaround\\Workaround.csproj",
         "projectName": "Workaround",
-        "projectPath": "/Users/berker/Desktop/KodlamaIo-Camp/Workaround/Workaround.csproj",
-        "packagesPath": "/Users/berker/.nuget/packages/",
-        "outputPath": "/Users/berker/Desktop/KodlamaIo-Camp/Workaround/obj/",
+        "projectPath": "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Workaround\\Workaround.csproj",
+        "packagesPath": "C:\\Users\\berke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Workaround\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/berker/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\berke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/berker/Desktop/KodlamaIo-Camp/Business/Business.csproj": {
-                "projectPath": "/Users/berker/Desktop/KodlamaIo-Camp/Business/Business.csproj"
+              "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Business\\Business.csproj"
               },
-              "/Users/berker/Desktop/KodlamaIo-Camp/Entities/Entities.csproj": {
-                "projectPath": "/Users/berker/Desktop/KodlamaIo-Camp/Entities/Entities.csproj"
+              "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\berke\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj"
               }
             }
           }
@@ -191,7 +226,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -2,6 +2,7 @@
 using Entities.Concrete;
 using System.Collections.Generic;
 using Business.Abstract;
+using MernisServiceReference;
 
 namespace Business.Concrete
 {
@@ -19,8 +20,10 @@ namespace Business.Concrete
 
 		public bool CheckPerson(Person person)
 		{
-			KPSPublicSoapClient
-			return true;
+
+			KPSPublicSoapClient client = new(KPSPublicSoapClient.EndpointConfiguration.KPSPublicSoap);
+			return client.TCKimlikNoDogrulaAsync(person.NationalIdentity,person.FirstName,person.LastName,person.DateOfBirthYear)
+				.Result.Body.TCKimlikNoDogrulaResult;
 		}
 
 	}
